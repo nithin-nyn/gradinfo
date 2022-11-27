@@ -1,6 +1,6 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2016-01-08 15:04:23
+title:  "Research Publications"
+date:   2016-01-08 15:04:23 
 categories: [jekyll]
 tags: [jekyll]
 ---
@@ -23,3 +23,15 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
+
+## Publication 
+
+Performance evaluation of tracer particles for Particle Image Velocimetry using a scaled rolling road-tire setup in a wind tunnel (Masters Thesis, Author):
+
+## Publication 
+
+Tomographic Particle Image Velocimetry: A comparison of flat white aerosol and rhodamine (R6G) fluorescent paints and their effect on the results of Tomographic PIV measurements (Journal Paper, Co-Author)
+
+## Conference Paper
+
+Aerodynamic study of flow around a tire on a rolling road using 2D PIV (Conference Paper, Co-Author)
